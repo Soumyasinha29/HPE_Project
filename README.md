@@ -1,4 +1,4 @@
-# HPE_Wholeasale-Customer-Data-Analysis
+# HPE_Wholesale-Customer-Data-Analysis
 Worked in a team to develop a business model for the purchase of the different categories of products, in different regions, for the benefit of seller and consumer. I was also responsible for data ingestion, MySQL queries, and the Cloudera Manager setup as it was performed on AWS.
 
 This file has several png files, of the graphs which was shown during the presentation of the final project.
